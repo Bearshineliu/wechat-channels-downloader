@@ -1,0 +1,27 @@
+# 浏览器登录态（含元宝 cookie，绝对不能提交）
+.browser-profile/
+browser-profile/
+
+# 下载产物
+downloads/
+*.mp4
+*.mp4.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# 临时 token 文件
+.pat
+.token
